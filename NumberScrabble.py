@@ -1,8 +1,3 @@
-# File Name : CS112_A1_T2_2_20230241
-# File Discription : This a simple (Number scrabble) game
-# Author : Ali Omar Abdelbary
-# ID : 20230241
-
 def number_scrabble():
     # Make a list of numbers from 1 to 9
     numbers_list = list(range(1, 10))
